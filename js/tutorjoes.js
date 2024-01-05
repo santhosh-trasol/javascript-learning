@@ -679,4 +679,3 @@ console.table(wordStats);
 let eveNo = numbers.filter((number) => number % 2 == 0);
 console.log(eveNo);
 
-// #$end
